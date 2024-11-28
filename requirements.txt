@@ -1,0 +1,11 @@
+catboost==1.2.7
+fire
+pandas
+numpy==1.26.4
+pandas
+scikit-learn
+flask
+scikit-learn==1.5.2
+xgboost==1.7.6
+lightgbm==3.3.5
+optuna==3.6.1
